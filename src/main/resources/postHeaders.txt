@@ -1,0 +1,13 @@
+Host: angel.co
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Referer: https://angel.co/companies
+Cookie: _angellist=89c9a4687d60eb2e243844bdbcb550b0; __utma=242977874.1950108226.1459848772.1459848772.1459848772.1; __utmb=242977874.1.10.1459848772; __utmc=242977874; __utmz=242977874.1459848772.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmt=1; mp_6a8c8224f4f542ff59bd0e2312892d36_mixpanel=%7B%22distinct_id%22%3A%20%22153e5c47c6e928-0ae9871782b1df8-74246750-100200-153e5c47c6fdf6%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D; mp_mixpanel__c=3; ajs_user_id=null; ajs_group_id=null; ajs_anonymous_id=%2289c9a4687d60eb2e243844bdbcb550b0%22
+DNT: 1
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
